@@ -1,4 +1,4 @@
-# Pathfinder
+# Pathfinder 09/2020
 A path finding program that implements multiple algorithms: breadth-first search, depth-first search, djikstra's algorithm and A*.
 
 # Instructions
