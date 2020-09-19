@@ -1,5 +1,5 @@
 # Pathfinder 09/2020
-A path finding program for finding the shortest path using multiple algorithms: breadth-first search, depth-first search, djikstra's <br/> 
+A path finding program for finding the shortest path using multiple algorithms: breadth-first search, depth-first search, djikstra's
 algorithm and A*.Implemented using python 3.8.
 
 # Instructions
