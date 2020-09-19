@@ -1,5 +1,5 @@
 # Pathfinder 09/2020
-A path finding program that implements multiple algorithms: breadth-first search, depth-first search, djikstra's algorithm and A*.
+A path finding program for finding the shortest path using multiple algorithms: breadth-first search, depth-first search, djikstra's algorithm and A*.
 
 # Instructions
 Left-click on the grid to add a start node, end node and (optionally) a barrier node. Right-click on a node to erase. Then press one 
