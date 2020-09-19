@@ -12,5 +12,5 @@ Red: node that has been searched <br/>
 Blue: node that we have yet to search (neighbours of previously searched nodes) <br/>
 
 # Dependencies
-python 3
+python 3 <br/>
 pygame 2.0.0.dev8
