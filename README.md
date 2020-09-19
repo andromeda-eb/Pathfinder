@@ -6,6 +6,6 @@ Left-click on the grid to add a start node, end node and (optionally) a barrier 
 of the buttons at the bottom of the screen to implement an algorithm.
 
 # Color Explanations
-Green: start node, end node and shortest path
-Red: node that has been searched
-Blue: node that we have yet to search (neighbours of previously searched nodes)
+Green: start node, end node and shortest path <br/>
+Red: node that has been searched <br/>
+Blue: node that we have yet to search (neighbours of previously searched nodes) <br/>
